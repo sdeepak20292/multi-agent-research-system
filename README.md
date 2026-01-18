@@ -130,20 +130,6 @@ The system will:
 
 ---
 
-## 📌 Possible Extensions
-
-* Search result ranking & credibility scoring
-* Section‑wise parallel report writing
-* Long‑term research memory (embeddings)
-* Token & cost budgeting
-* FastAPI backend + job tracking
-
----
-
-## 🧑‍💻 Author
-
-Built as an advanced agentic AI system to explore **real‑world multi‑agent orchestration patterns**.
-
 ---
 
 ## 📄 License
